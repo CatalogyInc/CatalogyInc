@@ -33,7 +33,7 @@
 #### Affiliated Links & Handles
 - Info & Contacts: X @ CatalogyInc, Discord @ ProfCatalogy#????
 - Workspaces: “Chronicle Legacy” [Discord](coming this week) [GitHub](https://github.com/CatalogyInc/)
-- Social media: [Pinterest](https://jp.pinterest.com/CatalogyInc/), [DeviantArt](https://www.deviantart.com/chronicle-legacy)
+- Social media: [Pinterest](https://www.pinterest.com/CatalogyInc/), [DeviantArt](https://www.deviantart.com/chronicle-legacy)
 
 <!---
 CatalogyInc/CatalogyInc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
