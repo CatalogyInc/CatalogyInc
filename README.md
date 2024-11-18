@@ -8,7 +8,7 @@
 - **Chronicle: Originating** in March 2004, Established in 2020 After Adopting the Rules and Principles of Nationalism and Capitalism.
 - **Highlights and Legacy:** In-a-Nutshell Evaluation and Research Through Strategy, Mathematics, Anticipatory, and Intuition.
 
-	*— “ Prof. Catalogy ”*
+>	*— “ Prof. Catalogy ”*
 
 ## Prof. Catalogy -sensei 🇨🇳🇷🇺
 #### Overview: The founder and main leader of The Catalogy Inc, overseeing all internal and external affairs, previously a late leader of its chronicle.
@@ -18,7 +18,7 @@
 - **Background:** Strategic Thinker with Chinese and Russian origins.
 - **Philosophy:** Wonder Pursuits through Wisdom, Strength, and Correction.
 
-	*“ I'm Contemplating... ”*
+>	*“ I'm Contemplating... ”*
 
 #### Our Criteria: Correction and Justice are the Absolute Principles
 - **Audience:** Neutral-to-Principled People and Businesses
@@ -30,8 +30,10 @@
 - **Nationalist Community:** Free Voluntary Communication and Guidance for Peoples and Nations.
 - **Capitalist Organization:** Business Contracts of Leadership and Objectivity for Companies and Careers.
 
-#### Workspaces: “Chronicle Legacy”  [Discord](coming this week) [GitHub](https://github.com/CatalogyInc/)
-#### Info & Contacts: X @ CatalogyInc, Discord @ ProfCatalogy#????
+#### Affiliated Links & Handles
+- Info & Contacts: X @ CatalogyInc, Discord @ ProfCatalogy#????
+- Workspaces: “Chronicle Legacy” [Discord](coming this week) [GitHub](https://github.com/CatalogyInc/)
+- Social media: [Pinterest](https://jp.pinterest.com/CatalogyInc/), [DeviantArt](https://www.deviantart.com/chronicle-legacy)
 
 <!---
 CatalogyInc/CatalogyInc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
